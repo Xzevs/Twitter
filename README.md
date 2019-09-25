@@ -15,8 +15,9 @@ Skapa struktur
     .gitignore
     torsdag.sql
 
+# Idag
 # Twitter
 # Twitter
 # Twitter
 # Twitter
-# Twitter
+# wsp1-tweet
